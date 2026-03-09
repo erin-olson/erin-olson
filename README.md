@@ -1,6 +1,9 @@
 ## Hi there, I'm Erin!👋
 
-
+<!--
+### Tech Stack
+- **Languages:** Python (primary), SQL, C, C++, Matlab
+- **Libraries:** numpy, pandas, matplotlib
 
 <!--
 **Erin89849/Erin89849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
