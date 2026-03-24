@@ -11,7 +11,7 @@ I am an Engineering Physics student with a Computing Science minor (2026). My wo
 ## 🌑 Featured Projects
 ### **[1- Google Sheets Score Comparison](https://github.com/erin-olson/Score_Comparison)**
 
-A Python tool for retrieving data from multiple Google Sheets, computing final scores, and comparing results across different categories and evaluators. This project demonstrates API integration, data processing and building automation scripts.
+A Python tool for retrieving data from multiple Google Sheets, computing final scores and comparing results across different categories and evaluators. This project demonstrates API integration, data processing and building automation scripts.
 
 ## 🛸 Interests
 -	Machine learning and AI engineering
