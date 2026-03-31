@@ -1,6 +1,6 @@
 ## 🌠 Hello, I'm Erin! ⚛️
 
-I am an Engineering Physics student with a Computing Science minor (2026). My work focuses on **machine learning**, **software engineering** and **computational physics**, with experience in building systems that connect data processing, algorithms and interactive ML components.
+I am an Engineering Physics Student with a Computing Science Minor (2026). My work focuses on **machine learning**, **software engineering** and **computational physics**, with experience in building systems that connect data processing, algorithms and interactive ML components.
 
 ## 🔭 Tech Stack
 - **Languages:** Python (primary), SQL, C, C++, MATLAB
