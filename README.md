@@ -1,6 +1,6 @@
 ## 🌠 Hello, I'm Erin! ⚛️
 
-My work focuses on **machine learning**, **software engineering** and **computational physics**, with experience in building systems that connect data processing, algorithms and interactive ML components.
+My work focuses on **LLMs**, **RAG**, **NLP**, **software engineering** and **computational physics**, with experience in building systems that connect data processing, algorithms and interactive AI components.
 
 ## 🔭 Tech Stack
 - **Languages:** Python (primary), SQL, C, C++, MATLAB
@@ -23,7 +23,6 @@ A Python tool for retrieving data from multiple Google Sheets, computing final s
 ## 🔮 What I am Learning
 -	Improving algorithms and system fundamentals
 -	Building scalable ML pipelines
--	Experimenting with retrieval-augmented workflows
 -	Writing more C++ and python tools for automation and analysis
 
 ## 🌟 Goals
